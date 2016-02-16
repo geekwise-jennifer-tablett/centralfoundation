@@ -5,22 +5,24 @@ body{margin:0 auto;
     padding:0;
     height:100%;
     width:100%;
+    text-align: center;
     background-color:antiquewhite
 }
 
 header{margin:0 auto;
     height:100px;
     text-align: center;
-    width:90%;
+    width:100;
 }
 
-#headpic{height:75%;
-width:100%;}
+#headpic{height:100%;
+width:90%;}
 
-.header{margin: auto;
+.button{margin: auto;
     display: inline;
-    width:75%;
-    height: 20%;
+    width:100%;
+    height: 15%;
+    background-color:68aec8;
 }
 
 main{
@@ -30,7 +32,13 @@ height: 75%;
     }
 
 article{margin: auto;
-height: 100px;}
+height: 100px;
+}
+
+p{margin: 0 auto;
+    float:right;
+    text-align: left;
+}
 
 #box_p{
     margin:0;
