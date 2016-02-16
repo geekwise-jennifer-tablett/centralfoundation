@@ -1,21 +1,61 @@
-html,body{}
+html,body{box-sizing: border-box;
+}
+
 body{margin:0 auto;
     padding:0;
-    height: ;
-    width:90%;
+    height:100%;
+    width:100%;
     background-color:antiquewhite
 }
+
 header{margin:0 auto;
     height:; 
-    width:;
+    width:90%;
+    display:;
     background-color:lawngreen;
 }
-main{
-    
+
+main{margin:0 auto;
+    height:; 
+    width:90%;
+    display:;
+    }
+
+#box_p{margin:0;
+padding:0;
+float:left;}
+
+
+#img_blue{
+    margin:0;
+    padding:0;
+    float:left;
+    background-color:blue;
 }
-section{background-color:aqua;
+
+
+#box_1{width:25%;
+    height:25%;
+    background-color:aqua;
 }
+#box_2{width:25%;
+    height:25%;background-color:green;
+}
+#box_3{width:25%;
+    height:25%;background-color:gray;
+}
+#box_4{width:25%;
+    height:25%;background-color:lightsalmon;
+}
+
+
+
 ul{background-color:orange;
 }
-footer{background-color:purple;
+footer{margin:0 auto;
+    height:; 
+    width:90%;
+    display:;
+    
+    background-color:firebrick;
 }
