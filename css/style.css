@@ -1,0 +1,21 @@
+html,body{}
+body{margin:0 auto;
+    padding:0;
+    height: ;
+    width:90%;
+    background-color:antiquewhite
+}
+header{margin:0 auto;
+    height:; 
+    width:;
+    background-color:lawngreen;
+}
+main{
+    
+}
+section{background-color:aqua;
+}
+ul{background-color:orange;
+}
+footer{background-color:purple;
+}
